@@ -49,7 +49,6 @@ titanic
 class(titanic)
 titanic$percent
 
-
 # Converting to a tidyverse tibble
 titanic_tb <- as_tibble(titanic)
 titanic_tb
